@@ -111,7 +111,7 @@
 
 #### 2. Clone repository:
 ```shell
-git clone https://github.com/walzimmer/3d-bat.git & cd 3d-bat
+git clone https://github.com/zzubqh/AutoPilotLabeling.git
 ```
 #### 3. Install required python packages:
 ```shell
